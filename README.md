@@ -1,1 +1,18 @@
 # OOP-Lab-0
+![Screenshot from 2022-09-15 15-25-50](https://user-images.githubusercontent.com/113588702/190403384-af8d5435-0f1d-43a0-9bd1-69445e978e95.png)
+![Screenshot from 2022-09-15 15-25-42](https://user-images.githubusercontent.com/113588702/190403374-d53c48e3-3f24-4f2e-a078-08dd517a2822.png)![Screenshot from 2022-09-15 15-25-54](https://user-images.githubusercontent.com/113588702/190403395-6884165d-f82f-42ae-ac8a-073577aab451.png)
+![Screenshot from 2022-09-15 15-27-28](https://user-images.githubusercontent.com/113588702/190403446-e1d0bc18-59a3-4492-bd62-05bbfbf8e7bd.png)
+![Screenshot from 2022-09-15 15-26-21](https://user-images.githubusercontent.com/113588702/190403466-ac39376d-1c3a-436a-8acc-f125899f989d.png
+![Screenshot from 2022-09-15 03-09-28](https://user-images.githubusercontent.com/113588702/190401134-5d56c904-03ba-4229-b11e-ba42e4c86157.png)
+![Screenshot from 2022-09-15 03-13-54](https://user-images.githubusercontent.com/113588702/190401138-c496eba0-4713-4e3f-a036-fbbe10dcdbbd.png)
+![Screenshot from 2022-09-15 03-15-36](https://user-images.githubusercontent.com/113588702/190401140-40418369-46a7-4195-aea0-8133e23458f3.png)
+![Screenshot from 2022-09-15 03-17-19](https://user-images.githubusercontent.com/113588702/190401145-552e5304-a8c8-4d4f-b441-30cc9ec40d3b.png)
+![Screenshot from 2022-09-15 03-17-37](https://user-images.githubusercontent.com/113588702/190401151-7d3cc46c-1bd2-424d-bff5-c5a0c72271da.png)
+![Screenshot from 2022-09-15 11-22-57](https://user-images.githubusercontent.com/113588702/190401157-e7465d2f-572f-4fe5-a2f4-2ec0953f6662.png)
+![Screenshot from 2022-09-15 11-28-13](https://user-images.githubusercontent.com/113588702/190401159-96efe35c-5614-4cde-b1e9-1cbe8b0b8118.png)
+![Screenshot from 2022-09-15 11-30-29](https://user-images.githubusercontent.com/113588702/190401162-568577a3-4f82-4c01-9e12-2bb6fdffd5c6.png)
+![Screenshot from 2022-09-15 11-36-49](https://user-images.githubusercontent.com/113588702/190401163-1b55b1c9-92f4-4811-bfa2-433323da6cd6.png)
+![Screenshot from 2022-09-15 11-39-58](https://user-images.githubusercontent.com/113588702/190401166-ecee4a27-f054-400b-8aa0-10c9edb46e57.png)
+![Screenshot from 2022-09-15 11-41-49](https://user-images.githubusercontent.com/113588702/190401169-cb1353a5-3d0b-48b1-a55c-f088cf1404b2.png)
+![Screenshot from 2022-09-15 11-47-25](https://user-images.githubusercontent.com/113588702/190401170-cb82602d-7e45-4055-b5ec-1277e6fe496d.png)
+![Screenshot from 2022-09-15 13-45-03](https://user-images.githubusercontent.com/113588702/190401172-0ff64747-87dc-4776-b59c-59a72586c2dd.png)
