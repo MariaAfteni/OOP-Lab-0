@@ -1,4 +1,4 @@
-# OOP-Lab-0
+# OOP-Lab-0 Screenshots
 ![Screenshot from 2022-09-15 15-25-50](https://user-images.githubusercontent.com/113588702/190403384-af8d5435-0f1d-43a0-9bd1-69445e978e95.png)
 ![Screenshot from 2022-09-15 15-25-42](https://user-images.githubusercontent.com/113588702/190403374-d53c48e3-3f24-4f2e-a078-08dd517a2822.png)![Screenshot from 2022-09-15 15-25-54](https://user-images.githubusercontent.com/113588702/190403395-6884165d-f82f-42ae-ac8a-073577aab451.png)
 ![Screenshot from 2022-09-15 15-27-28](https://user-images.githubusercontent.com/113588702/190403446-e1d0bc18-59a3-4492-bd62-05bbfbf8e7bd.png)
